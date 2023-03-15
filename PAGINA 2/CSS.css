@@ -1,0 +1,93 @@
+
+/*Titulos*/
+
+*{
+    font-family: 'Times New Roman';
+}
+
+h1{
+    color: rgb(66, 57, 119);
+}
+
+h2{
+ color: rgb(66, 57, 119);
+
+}
+
+h3{
+    color: rgb(66, 57, 119);
+
+}
+
+.h1comp{
+    color: rgb(0, 0, 0);
+}
+
+.h2comp{
+    color: rgb(14, 159, 255);
+}
+
+.h1form{
+    color: blueviolet;
+}
+
+/*Tablas*/
+
+.tabla1{
+    width: 60%;
+    align-items: center;
+    border: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.tabla2{
+    width: 60%;
+    align-items: center;
+    border: 0;
+    background-color: rgb(219, 219, 219);
+}
+
+.tabla0{
+    width: 60%;
+    align-items: center;
+    border: 0;
+    background-color: rgb(255, 255, 255)
+}
+
+.precio{
+    color: red;
+}
+
+.tabla-precios{
+    background-color: white;
+    width: 40%;
+    
+}
+
+
+/*Fondos*/
+
+.fondoweb{
+    background-image: url("Fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.fondoweb2{
+    background-image: url("Fondo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.fondoform{
+    background-image: url("Fondoform.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.foto{
+    margin-top: 100px;
+}
